@@ -1,5 +1,5 @@
 ## Data Science
 
-This repository contains Jupyter notebooks implementing Data Science projects. 
+This repository contains Jupyter notebooks implementing several Data Science projects. 
 
-These notebooks present a wide range of techniques and tools to address the usual Data Science workflow.
+The notebooks present a wide range of techniques and tools to address the usual Data Science workflow.
