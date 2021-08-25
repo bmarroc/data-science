@@ -7,4 +7,4 @@ The notebooks present a wide range of techniques and tools illustrating the usua
 ### Table of contents
 
 * [1 - Prediction of plant species](https://github.com/bmarroc/data-science/blob/14aa45f7f009931d4d024b77b24cb4a8876da38c/1/ds_1.ipynb)
-* [2 - Recommendation of new content to users](https://github.com/bmarroc/data-science/blob/eef0270ab60a14ec2f3c8f64ebc1757292c8aabb/2/dl_2.ipynb)
+* [2 - Recommendation of new content to users](https://github.com/bmarroc/data-science/blob/b6ef2ef35eee82de2e54934439327b3ed725923d/2/dl_2.ipynb)
