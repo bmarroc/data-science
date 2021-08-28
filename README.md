@@ -7,7 +7,7 @@ The notebooks present a wide range of techniques and tools illustrating the usua
 ### Table of contents
 
 * [1 - Iris: prediction of plant species](https://github.com/bmarroc/data-science/blob/edfda7bd21378355c62170f57f20db9cf3e735d3/1/ds_1.ipynb)
-* [2 - Flow: recommendation of new content to users]()
+* [2 - Flow: recommendation of new content to users](https://github.com/bmarroc/data-science/blob/8d1a6bb1c56bf3ad09d47fe3c6756606fec63b3d/2/ds_2.ipynb)
 * [3 - Run/Not Run: prediction of usability of a running track]()
 * [4 - Credit Card: segmentation of clients](https://github.com/bmarroc/data-science/blob/2b9933cf10870ebbe96ab0fb623409496e313f4c/4/ds_4.ipynb)
 * [5 - Household Power Consumption: prediction of electric usage]()
