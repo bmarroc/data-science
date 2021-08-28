@@ -11,3 +11,4 @@ The notebooks present a wide range of techniques and tools illustrating the usua
 * [3 - Run/Not Run: prediction of usability of a running track](https://github.com/bmarroc/data-science/blob/c079fd9b76463a5f0916eed12fdb45c12077825c/3/ds_3.ipynb)
 * [4 - Credit Card: segmentation of clients](https://github.com/bmarroc/data-science/blob/2b9933cf10870ebbe96ab0fb623409496e313f4c/4/ds_4.ipynb)
 * [5 - Household Power Consumption: prediction of electric usage]()
+* [6 - Sarcasm: use of words in news headlines]()
