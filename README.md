@@ -12,3 +12,4 @@ The notebooks present a wide range of techniques and tools illustrating the usua
 * [4 - Credit Card: segmentation of clients](https://github.com/bmarroc/data-science/blob/2b9933cf10870ebbe96ab0fb623409496e313f4c/4/ds_4.ipynb)
 * [5 - Household Power Consumption: prediction of electric usage](https://github.com/bmarroc/data-science/blob/6465666471a8a4607448984bb58e19a5207299ec/5/ds_5.ipynb)
 * [6 - Sarcasm: sentiment analysis of news headlines]()
+* [7 - Rock Paper Scissors: recognition of hand signs]()
