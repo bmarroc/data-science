@@ -14,3 +14,4 @@ The notebooks present a wide range of techniques and tools illustrating the usua
 * [6 - Sarcasm: sentiment analysis of news headlines]()
 * [7 - Rock Paper Scissors: recognition of hand signs]()
 * [8 - ECG: anomaly detection on electrocardiograms]()
+* [9 - Fashion MNIST: classification of fashion images]()
