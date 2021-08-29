@@ -13,3 +13,4 @@ The notebooks present a wide range of techniques and tools illustrating the usua
 * [5 - Household Power Consumption: prediction of electric usage](https://github.com/bmarroc/data-science/blob/6465666471a8a4607448984bb58e19a5207299ec/5/ds_5.ipynb)
 * [6 - Sarcasm: sentiment analysis of news headlines]()
 * [7 - Rock Paper Scissors: recognition of hand signs]()
+* [8 - ECG: anomaly detection on electrocardiograms]()
