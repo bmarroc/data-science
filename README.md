@@ -14,7 +14,7 @@ The notebooks present a wide range of techniques and tools illustrating the usua
 * [6 - Sarcasm: sentiment analysis of news headlines](https://github.com/bmarroc/data-science/blob/858482f071c97616b4e135c598f22926fa1f0698/6/ds_6.ipynb)
 * [7 - Rock Paper Scissors: recognition of hand signs](https://github.com/bmarroc/data-science/blob/c0967977df17692c34b474e3d533ac1edb039d1d/7/ds_7.ipynb)
 * [8 - Fashion MNIST: classification of fashion images]()
-* <!---
+<!---
 * [9 - Properati: prediction of house prices]()
 * [10 - Titanic: prediction of survival of a disaster]()
 * [11 - Fashion MNIST: classification of fashion images]()
