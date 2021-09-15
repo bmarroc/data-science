@@ -16,7 +16,7 @@ The notebooks present a wide range of techniques and tools illustrating the usua
 * [8 - Fashion MNIST: classification of fashion images](https://github.com/bmarroc/data-science/blob/83baa1bd0d0ef1b5cb4dfc92c16d693f7a0f90a3/8/ds_8.ipynb)
 * [9 - Properati: prediction of house prices]()
 * [10 - Titanic: prediction of survival of a disaster]()
-* [11 - ECG: anomaly detection on electrocardiograms]()
+* [11 - ECG: anomaly detection on electrocardiograms](https://github.com/bmarroc/data-science/blob/137de1da045d254255a54c81ca797b656376cddc/11/ds_11.ipynb)
 <!---
 * [12 - ]()
 --->
