@@ -15,7 +15,7 @@ The notebooks present a wide range of techniques and tools illustrating the usua
 * [7 - Rock Paper Scissors: recognition of hand signs](https://github.com/bmarroc/data-science/blob/c0967977df17692c34b474e3d533ac1edb039d1d/7/ds_7.ipynb)
 * [8 - Fashion MNIST: classification of fashion images](https://github.com/bmarroc/data-science/blob/83baa1bd0d0ef1b5cb4dfc92c16d693f7a0f90a3/8/ds_8.ipynb)
 * [9 - Properati: prediction of house prices]()
-* [10 - Titanic: prediction of survival of a disaster]()
+* [10 - Titanic: prediction of survival of a disaster](https://github.com/bmarroc/data-science/blob/feecef961e0530301183035997d877a03ea3a1ae/10/ds_10.ipynb)
 * [11 - ECG: anomaly detection on electrocardiograms](https://github.com/bmarroc/data-science/blob/137de1da045d254255a54c81ca797b656376cddc/11/ds_11.ipynb)
 <!---
 * [12 - ]()
