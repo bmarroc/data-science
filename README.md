@@ -8,7 +8,9 @@ The notebooks present a wide range of techniques and tools illustrating the usua
 
 * [1 - Iris: prediction of plant species](https://github.com/bmarroc/data-science/blob/edfda7bd21378355c62170f57f20db9cf3e735d3/1/ds_1.ipynb)
 * [2 - Flow: recommendation of new content to users](https://github.com/bmarroc/data-science/blob/8d1a6bb1c56bf3ad09d47fe3c6756606fec63b3d/2/ds_2.ipynb)
-* [3 - Run/Not Run: prediction of usability of a running track](https://github.com/bmarroc/data-science/blob/c079fd9b76463a5f0916eed12fdb45c12077825c/3/ds_3.ipynb)
+<!---
+* [3 - Run/Not Run: prediction of usability of a running track]()
+--->
 * [4 - Credit Card: segmentation of clients](https://github.com/bmarroc/data-science/blob/2b9933cf10870ebbe96ab0fb623409496e313f4c/4/ds_4.ipynb)
 * [5 - Household Power Consumption: prediction of electric usage](https://github.com/bmarroc/data-science/blob/6465666471a8a4607448984bb58e19a5207299ec/5/ds_5.ipynb)
 * [6 - Sarcasm: sentiment analysis of news headlines](https://github.com/bmarroc/data-science/blob/858482f071c97616b4e135c598f22926fa1f0698/6/ds_6.ipynb)
@@ -17,6 +19,5 @@ The notebooks present a wide range of techniques and tools illustrating the usua
 * [9 - Properati: prediction of properties sales prices](https://github.com/bmarroc/data-science/blob/6539abbc05bb2f0cd233fad29dd0879108bc54e0/9/ds_9.ipynb)
 * [10 - Titanic: prediction of survival of a disaster](https://github.com/bmarroc/data-science/blob/feecef961e0530301183035997d877a03ea3a1ae/10/ds_10.ipynb)
 * [11 - ECG: anomaly detection on electrocardiograms](https://github.com/bmarroc/data-science/blob/137de1da045d254255a54c81ca797b656376cddc/11/ds_11.ipynb)
-<!---
-* [12 - ]()
---->
+* [12 - Yelp: exploratory analysis of reviews about businesses]()
+
