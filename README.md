@@ -7,7 +7,7 @@ The notebooks present a wide range of techniques and tools illustrating the usua
 ### Table of contents
 
 * [1 - Chinook: exploratory analysis of a music store database](https://github.com/bmarroc/data-science/blob/c8c7abe0f458ce819cee67f2e3a3c01a3f18c655/1/ds_1.ipynb)
-* [2 - Iris: prediction of plant species]()
+* [2 - Iris: prediction of plant species](https://github.com/bmarroc/data-science/blob/695f811ddca046c6982d4c902c5451ac71b839da/2/ds_2.ipynb)
 * [3 - Titanic: prediction of survival of a disaster]()
 * [4 - Properati: prediction of properties sales prices]()
 * [5 - Fashion MNIST: classification of fashion images]()
