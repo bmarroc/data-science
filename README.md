@@ -12,7 +12,7 @@ The notebooks present a wide range of techniques and tools illustrating the usua
 * [4 - Properati: prediction of properties sales prices](https://github.com/bmarroc/data-science/blob/b3743186cdedcdea6d9f43b77287fd28d3719bc5/4/ds_4.ipynb)
 * [5 - Fashion MNIST: classification of fashion images](https://github.com/bmarroc/data-science/blob/08565127f47983270bcad7ed6567a4a334633219/5/ds_5.ipynb)
 * [6 - Rock Paper Scissors: recognition of hand signs](https://github.com/bmarroc/data-science/blob/062fa0e86e33c82697d5a5f34be07f50958ac433/6/ds_6.ipynb)
-* [7 - Sarcasm: sentiment analysis of news headlines]()
+* [7 - Sarcasm: sentiment analysis of news headlines](https://github.com/bmarroc/data-science/blob/94f4e52bd354a5e8f1a787ec357a8698a24a50c2/7/ds_7.ipynb)
 * [8 - Household Power Consumption: prediction of electric usage]()
 * [9 - Flow: recommendation of new content to users]()
 * [10 - Credit Card: segmentation of clients]()
