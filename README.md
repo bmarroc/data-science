@@ -17,5 +17,5 @@ The notebooks present a wide range of techniques and tools illustrating the usua
 * [9 - Properati: prediction of properties sales prices](https://github.com/bmarroc/data-science/blob/6539abbc05bb2f0cd233fad29dd0879108bc54e0/9/ds_9.ipynb)
 * [10 - Titanic: prediction of survival of a disaster](https://github.com/bmarroc/data-science/blob/feecef961e0530301183035997d877a03ea3a1ae/10/ds_10.ipynb)
 * [11 - ECG: anomaly detection on electrocardiograms](https://github.com/bmarroc/data-science/blob/137de1da045d254255a54c81ca797b656376cddc/11/ds_11.ipynb)
-* [12 - Chinook: exploratory analysis of a music store database]()
+* [12 - Chinook: exploratory analysis of a music store database](https://github.com/bmarroc/data-science/blob/2533759859435eef84099eb8274a8f1b06219e0d/12/ds_12.ipynb)
 
