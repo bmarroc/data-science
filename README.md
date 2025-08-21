@@ -17,6 +17,7 @@ The notebooks present a wide range of techniques and tools illustrating the usua
 * [9 - Flow: recommendation of new content to users](https://github.com/bmarroc/data-science/blob/d21912d1070db979d525786dc710303239009ee3/9/ds_9.ipynb)
 * [10 - Credit Card: segmentation of clients](https://github.com/bmarroc/data-science/blob/83544bb8b06e0aa5b27dd8ca1574451256090278/10/ds_10.ipynb)
 * [11 - ECG: anomaly detection on electrocardiograms](https://github.com/bmarroc/data-science/blob/003ad490aacc79e77336f8b0814159def3cbcd6b/11/ds_11.ipynb)
+* [12 - COVID-19: stance detection in tweets]()
 
 
 
